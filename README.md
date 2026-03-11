@@ -1,0 +1,2 @@
+# Unsupervised-geological-domain-modeling-uncertainty-and-cut-off-gold-screening-in-Peru
+This study applies unsupervised learning to delineate geological domains, quantify uncertainty, and assess cut-off sensitivity of contained gold in a Peruvian deposit. Using 2,129 drill composites, K-Means outperformed GMM and AC, yielding stable, interpretable domains and supporting early-stage exploration and mine-planning decisions.
